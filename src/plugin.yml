@@ -1,0 +1,18 @@
+name: TerraServerSwitcher
+version: 1.0
+author: TerraDevTeam
+main: dev.terra.Main
+api-version: 1.14
+commands:
+  hub:
+    description: tp to hub
+    useage: /hub
+  survival:
+    description: tp to survival
+    usage: /survival
+  setsurvivalteleporter:
+    description: sets block to teleport players to the survival server
+    usage: /setsurvivalteleporter
+  setspleefteleporter:
+    description: sets block to teleport players to the spleef event
+    usage: /setspleefteleporter

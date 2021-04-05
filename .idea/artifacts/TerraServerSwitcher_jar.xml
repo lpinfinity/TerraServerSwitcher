@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TerraServerSwitcher:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TerraServerSwitcher_jar</output-path>
+    <root id="archive" name="TerraServerSwitcher.jar">
+      <element id="module-output" name="TerraServerSwitcher" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/spigot-api-1.16.5-R0.1-20210319.220144-34.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
